@@ -10,7 +10,7 @@ jobs:
     with:
       keyboard: '["crkbd"]'
       alphas: '["qwerty"]'
-      extra: '["colemakedh"]'
-      tap: '["qwerty"]'
+      #extra: '["colemakedh"]'
+      #tap: '["qwerty"]'
       nav: '["vi"]'
     
